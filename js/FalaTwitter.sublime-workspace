@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"audio",
+				"audioURL"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"text",
+				"texto"
+			],
+			[
+				"g",
+				"groupColumn"
+			],
+			[
+				"group",
+				"groupColumn"
+			],
+			[
+				"clas",
+				"class"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"col",
+				"colspan"
+			],
+			[
+				"rown",
+				"rowSpan"
+			],
+			[
+				"rows",
+				"rows"
+			],
+			[
+				"bar",
+				"background-color"
+			],
+			[
+				"he",
+				"line-height"
+			],
+			[
+				"lin",
+				"letter-spacing"
+			],
+			[
+				"borde",
+				"border-style"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"irpa",
+				"irParaCima"
+			],
+			[
+				"irpara",
+				"irParaEsquerda"
+			],
+			[
+				"irPaa",
+				"irParaBaixo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "fala.js",
+			"settings":
+			{
+				"buffer_size": 1448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fala.htm",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "fala.css",
+			"settings":
+			{
+				"buffer_size": 47,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/FalaTwitter/js/HashTable.js",
+		"/D/FalaTwitter/js/google-tts.js",
+		"/D/FalaTwitter/js/fala.htm",
+		"/D/FalaTwitter/js/fala.js",
+		"/D/FalaTwitter/js/fala.css",
+		"/C/Users/bernardo.magalhaes/Desktop/google-tts-master/google-tts-master/index.html",
+		"/C/Users/bernardo.magalhaes/Desktop/google-tts-master/google-tts-master/google-tts.js",
+		"/D/Mac Diego Rio/OS X Mountain Lion/OS X Mountain Lion.vmx",
+		"/C/Users/bernardo.magalhaes/Desktop/teste.htm",
+		"/C/Users/bernardo.magalhaes/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/Downloads/FalaTwitter/js/HashTable.js",
+		"/D/Downloads/FalaTwitter/js/fala.js",
+		"/D/Downloads/FalaTwitter/fala.txt",
+		"/D/Downloads/FalaTwitter/js/fala.css",
+		"/D/Downloads/FalaTwitter/js/fala.htm",
+		"/C/Users/bernardo.magalhaes/Desktop/gistf24d0750df475580d501-7a577ec0bb1448d47e0fc8862e56b796a6738ee1/final.htm",
+		"/D/Downloads/TesteXML/packages/jQuery.1.5.1/Content/Scripts/jquery-1.5.1.js",
+		"/D/Downloads/colResizable/source/colResizable-1.3.source.js",
+		"/D/Downloads/colResizable/colResizable-1.3.min.js",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/DataType/Swap.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/teste2/jquery.tablegroup.js",
+		"/C/Users/bernardo.magalhaes/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/bernardo.magalhaes/Desktop/teste2/teste_group.htm",
+		"/C/Users/bernardo.magalhaes/Desktop/teste2/teste_group.txt",
+		"/C/Users/bernardo.magalhaes/Desktop/teste2/teste_group.css",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/DataType/NDF.cs",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/DataType/Option.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/teste2/jquery.tablesorter.js",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/teste_group.txt",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/teste_group.css",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/jquery.tablegroup.js",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/teste_group.htm",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/jquery.tablegroup1.js",
+		"/C/Users/bernardo.magalhaes/Desktop/jquery.tablegroup.js",
+		"/C/Users/bernardo.magalhaes/Desktop/teste1/jquery.tablegroup.pack.js",
+		"/C/Users/bernardo.magalhaes/Desktop/teste_group.txt",
+		"/C/Users/bernardo.magalhaes/Desktop/teste_group.css",
+		"/C/Users/bernardo.magalhaes/Desktop/teste_group.htm",
+		"/D/Downloads/TesteXML/TesteXML/Controllers/HomeController.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/RelatorioMVC/RelatorioMVC/Controllers/SuporteController.cs",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/Reports/Swap.TradeTicket.Details.rdlc",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/Reports/Swap.TradeTicket.rdlc",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/Reports/Header.rdlc",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/ProjetoExemplo/ProjetoExemplo/Reports/Pedido.rdlc",
+		"/C/Users/bernardo.magalhaes/Desktop/PosicaoBusiness.cs",
+		"/C/SVN/votorantim/tesouraria/desenvolvimento/trunk/BVSistemas.TradeFlex/BVSistemas.TradeFlex.Reporting/Relatorio/Pedido.rdlc",
+		"/C/SVN/votorantim/tesouraria/documentacao/trunk/Emails Recebidos/Aprovação_Refatoração Tradeflex.msg",
+		"/C/SVN/votorantim/tesouraria/documentacao/trunk/Emails Recebidos/Maquinas Virtuais_24_10_2012.msg",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/sample1.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/sample2.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/sample3.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/sample5.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/sample4.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/Sample7.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefCursor/Sample6.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefConnection/RefConnection6d.cs",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefConnection/RefConnection6e.cs",
+		"/C/SVN/votorantim/intranet/desenvolvimento/Portal/Trunk/QX3.Portal.WCF/Web.config",
+		"/C/Users/bernardo.magalhaes/Desktop/ODP.NET_11.1.0.7.20_Samples/RefConnection/RefConnection6c.cs",
+		"/C/SVN/votorantim/intranet/desenvolvimento/Portal/Trunk/QX3.Portal.Services/Data/Guarantee/GuaranteeDAL.cs"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");",
+			"textoAlterado",
+			"\n	",
+			"'",
+			"\"",
+			"		\n",
+			"};",
+			"	",
+			"guarda",
+			".html()",
+			"&nbsp;",
+			"cAnt",
+			"href=\"#\"",
+			"mygroups3",
+			"mygroups2",
+			"mygroups1",
+			"cellpadding=\"3\"",
+			");",
+			"getCell",
+			"</td></tr><tr",
+			"</tr><tr>",
+			"><td",
+			"</td></tr>",
+			"fixCellIndexes",
+			"\n					",
+			"$row",
+			"fixCellIndexes",
+			"realIndex",
+			"li 2 - cl 3",
+			"gggg",
+			"li 1 - cl 3",
+			"<td>.</td>",
+			";\n",
+			"li 1 - cl 2",
+			"            </th>",
+			"<th>                ",
+			"\n                ",
+			"                </th>",
+			"\n                    ",
+			"					\n",
+			"mudaLado"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"textoTraduzido",
+			"\"",
+			"'",
+			"});",
+			"",
+			"lastPrevData",
+			"",
+			"cEsqAnt",
+			"href=\"javascript:void(0);\"",
+			"javascript:void(0);",
+			"grupo3",
+			"grupo2",
+			"grupo1",
+			"cellpadding=\"1\"",
+			"getCell1",
+			"</tr>\\n<tr>",
+			">\\n<td",
+			"</td>\\n</tr>",
+			"</td>\\r</tr>",
+			"nnnn",
+			"ffff",
+			"nnnn",
+			"<td>&nbsp;</td>",
+			"</th>",
+			"<th>",
+			"</th>",
+			"",
+			"mudarLado"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "fala.js",
+					"settings":
+					{
+						"buffer_size": 1448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1032,
+								1032
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "fala.htm",
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1128,
+								1128
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "fala.css",
+					"settings":
+					{
+						"buffer_size": 47,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.622913505311,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 122.0,
+	"status_bar_visible": true
+}
