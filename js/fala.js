@@ -8,22 +8,30 @@ $(document).ready(function() {
 	var textoPartes = textoTraduzido.match(/.{0,99}/g);
 
 	var playNext = function () {
-    	console.log('acabou');
-    }
+		console.log('acabou');
+	}
+
+	var count = 0;
 
 	var audio = new Audio();
-    //audio.src = "http://translate.google.com/translate_tts?ie=UTF-8&tl=pt-BR&q=" + textoPartes[0].replace(/ /g, '+');
-    audio.src = "http://translate.google.com/translate_tts?ie=UTF-8&tl=pt&q=oi+voc%C3%AA+a%C3%AD";
-	audio.addEventListener('ended', playNext);
-	audio.play();
-    
-	/*for (var texto in textoPartes) {
-		var audioURL = "http://translate.google.com/translate_tts?ie=UTF-8&tl=pt-BR&q=" + textoTraduzido.replace(/ /g, '+');
 
-		$('.audio-url').text(audioURL);
+	var falarTexto = function () {
+		var texto = textoPartes[count];
+		var texto1 = texto.replace(/ /g, '+');
+		
+		count++;
+		
+		audio.src = "http://translate.google.com/translate_tts?ie=UTF-8&tl=pt-BR&q=" + texto1;
 
-		$('audio source').attr('src', audioURL);
-	}*/
+		if (count < textoPartes.length)
+			audio.addEventListener('ended', falarTexto());
+
+		//while (audio.currentTime < audio.duration) {}
+
+		audio.play();
+	}
+	
+	falarTexto();
 });
 
 var traduzir = function (texto) {
@@ -37,13 +45,13 @@ var traduzir = function (texto) {
 };
 
 var dicionario = {
-    "td": "tudo",
-    "vc": "você",
-    "std": "sentido",
-    "rod.": "rodovia",
-    "q": "que",
-    "RT": "retuite",
-    "rt": "retuite",
-    "mto": "muito",
-    "sent": "sentido"
+	"td": "tudo",
+	"vc": "você",
+	"std": "sentido",
+	"rod.": "rodovia",
+	"q": "que",
+	"RT": "retuite",
+	"rt": "retuite",
+	"mto": "muito",
+	"sent": "sentido"
 };
